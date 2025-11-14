@@ -19,7 +19,7 @@ public class Point3D extends Point2D {
         this.z = z;
     }
     public void setXYZ(float x, float y, float z) {
-        setXY(x, y);      // Dùng phương thức của Point2D
+        setXY(x, y);
         this.z = z;
     }
 
