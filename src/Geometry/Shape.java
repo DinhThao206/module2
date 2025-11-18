@@ -1,7 +1,7 @@
 package Geometry;
 
 public class Shape {
-    private String color = "green";
+    private String color = "red";
     private boolean filled = true;
     public Shape() {
 
